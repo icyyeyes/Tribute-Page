@@ -1,0 +1,33 @@
+* {
+    background-color: #8C9897;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    word-spacing: 5px;
+}
+h1, h3 {
+    text-align: center;
+}
+h3.quote {
+    font-family: 'MonteCarlo', cursive;
+    font-size: 25px;
+    word-spacing: 2px;
+}
+
+div{
+    text-align: center;
+}
+
+div.bio {
+    text-align: left;
+}
+
+div.recognition {
+    text-align: left;
+}
+
+div.views {
+    text-align: left;
+}
+div.books {
+    text-align: left;
+}
+
